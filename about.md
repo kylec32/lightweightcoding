@@ -3,6 +3,7 @@ layout: page
 title: About Light Weight Coding
 share: false
 permalink: /about/
+comments: false
 ---
 
 # Who am I?

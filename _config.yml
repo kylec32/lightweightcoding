@@ -2,7 +2,7 @@ title:            Light Weight Coding
 description:      
 
 # put your disqus here
-disqus_shortname:
+disqus_shortname: light-weight-coding.disqus.com
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/lwc.png # logo visible in the topbar
