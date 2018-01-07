@@ -2,7 +2,7 @@
 layout: post
 title: "Should Architects Code"
 description: "An often asked question of whether Software Architects should code."
-tags: [architecture, architecture, software, coding, passion]
+tags: [architecture, software, coding, passion]
 comments: false
 ---
 
